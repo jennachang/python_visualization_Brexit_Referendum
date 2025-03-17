@@ -79,5 +79,3 @@ The visualizations generated in this project provide insights into:
 - The geographic distribution of referendum results  
 
 Through these analyses, the project aims to provide a clearer picture of the electoral landscape during the Brexit vote.  
-
-Would you like any modifications or additional sections?
