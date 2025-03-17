@@ -1,4 +1,4 @@
-# Visualizing Brexit Referendum Data with Python
+# Python Visualization -  Brexit Referendum Case Study
 ## Introduction </br>
 This repository demonstrates various Python data visualization libraries by analyzing voter data from the 2016 Brexit referendum. Through this case study, I explore different techniques for visualizing electoral data, showcasing the strengths and applications of multiple chart types.
 
